@@ -1,4 +1,4 @@
-Customiztions for GitLab.
+Customisations for GitLab.
 --------
 
 GitLab home dir : `/opt/gitlab/embedded/service/gitlab-rails/`
